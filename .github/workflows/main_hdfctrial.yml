@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'hdfctrial'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_799C693A497F4096B3E888E62DBCE7A7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69DE95FC47644F179784CD34A85431B5 }}
